@@ -10,7 +10,9 @@
 
 
 h1{
-	border: 3px #ec7e1c dotted;
+    border: 3px #ec7e1c dotted;
+    width: 40%;
+    margin: 0 auto;
 }
 
 h2,h3,h4{
