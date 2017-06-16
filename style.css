@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'AmpleSoft';
+    src : url('fonts/AmpleSoft/AmpleSoft.eot'),
+         url('fonts/AmpleSoft/AmpleSoft?#iefix') format('embedded-opentype'),
+        url('fonts/AmpleSoft/AmpleSoft.otf') format('opentype'),
+         url('fonts/AmpleSoft/AmpleSoft.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+h1{
+	border: 3px #ec7e1c dotted;
+}
+
+h2,h3,h4{
+	color:#ec6a7c;
+	font-weight: bold;
+}
+
+
+ul{
+	list-style: none;
+}
+
+.titredecv{
+	color:#747375;
+    
+}
+
+body{
+  	
+	background: url("img/cv.png") no-repeat;
+	font-weight: bold;
+	text-align: center;
+    font-size: 18px;
+    background-color: #f1f1f1;
+    font-family: 'AmpleSoft';
+}
+
+cite
+{
+	border-style: solid;
+    box-shadow: 3px 3px 2px black;
+}
